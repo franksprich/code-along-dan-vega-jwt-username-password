@@ -1,0 +1,4 @@
+rsa:
+  private-key: classpath:certs/async_key.prv
+  public-key: classpath:certs/async_key.pub
+  
