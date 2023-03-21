@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>edu.security.jwt</groupId>
-	<artifactId>code-along-dan-vega-jwt-username-password</artifactId>
+	<artifactId>jwt-username-password</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>code-along-dan-vega-jwt-username-password</name>
+	<name>jwt-username-password</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
